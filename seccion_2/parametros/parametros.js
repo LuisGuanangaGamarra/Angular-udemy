@@ -1,3 +1,4 @@
+"use strict";
 function activar(quien, objecto, momento) {
     if (objecto === void 0) { objecto = "Batiseñal"; }
     if (momento) {
